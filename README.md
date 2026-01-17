@@ -92,7 +92,7 @@ Siga estes passos:
 
 Este projeto está sob a licença [MIT](LICENSE) (ou a que você preferir). Veja o arquivo `LICENSE` para detalhes.
 
-Feito com ❤️ em Rio de Janeiro 🇧🇷  
+Feito com ❤️ por Wendel Marinho em Rio de Janeiro 🇧🇷  
 **Última atualização:** Janeiro 2026
 
 ---
