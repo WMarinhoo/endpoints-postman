@@ -1,14 +1,14 @@
-# Coleção Postman - [Nome da Sua API / Projeto]
+# Coleção Postman - [ServerRest API / endpoints-postman]
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![License](https://img.shields.io/github/license/[SEU-USUARIO]/[SEU-REPO]?style=for-the-badge)
 
-> Coleção de endpoints da API **[Nome da API ou Projeto]** testada e organizada no Postman. Ideal para desenvolvimento, testes manuais, automação e onboarding de novos devs.
+> Coleção de endpoints da API **[ServerRest API]** testada e organizada no Postman. Ideal para desenvolvimento, testes manuais, automação e onboarding de novos devs.
 
 ## ✨ Visão Geral
 
-Esta coleção contém todas as requisições principais da **[Nome da API]**, incluindo:
+Esta coleção contém todas as requisições principais da **[ServerRest API]**, incluindo:
 
 - Autenticação (Login, Token, Refresh, etc.)
 - Endpoints de CRUD (usuários, produtos, pedidos...)
@@ -25,7 +25,7 @@ Perfeito para quem está construindo, testando ou integrando com a API.
 1. Abra o Postman (desktop ou web: https://www.postman.com)
 2. Clique em **Import** (canto superior esquerdo)
 3. Escolha **Link** ou **File**:
-   - **Link direto** (recomendado): https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-REPO]/main/minha-colecao.postman_collection.json
+   - **Link direto** (recomendado): https://raw.githubusercontent.com/[WMarinhoo]/[endpoints-postman]/main/minha-colecao.postman_collection.json
 
 - Ou baixe o arquivo JSON da pasta raiz e importe manualmente.
 4. Após importar, configure as variáveis de ambiente (veja abaixo).
